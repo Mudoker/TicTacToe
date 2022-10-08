@@ -4,6 +4,7 @@ This is a simple project that mimic a simplified version of the well-known TicTa
 ## Game's Screenshot
   ![image](https://user-images.githubusercontent.com/95454901/194686898-b51367e9-f054-4eed-b6f6-4a3d0f712a17.png)
   (Game menu)
+  
   ![image](https://user-images.githubusercontent.com/95454901/194686933-8d52ffdc-04de-48cd-99f1-849ca5ce24dd.png)
   (Game interface with Winner)
 
@@ -12,6 +13,7 @@ This is a simple project that mimic a simplified version of the well-known TicTa
   2. Winner will be the one with three consecutive marks in either diagonal line or vertical/horizontal.
   3. When there is no valid move left:
     a. Position is invalid or has already been taken: The program will automatically prompt for another choice of position.
+    
     b. The program runs out of moves (9 moves in total possible): The program will exit and the two player will draw.
 ## Weakness and Enhancement
 
