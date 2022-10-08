@@ -1,4 +1,4 @@
-# Background
+## Background
 This is a simple project that mimic a simplified version of the well-known TicTacToe game using C++. This program mainly uses basic C+ programming techniques with a terminal-based interface.
 
 ## Game's Screenshot
@@ -11,7 +11,7 @@ This is a simple project that mimic a simplified version of the well-known TicTa
   1. Since this game runs with terminal, all inputs will be takin from the keyboard in this version. Therefore, in order to assign 'X' or 'O' on the Game Table, we need to enter its position as prompt in zero-based.
   2. Winner will be the one with three consecutive marks in either diagonal line or vertical/horizontal.
   3. When there is no valid move left:<br />
-    a. Position is invalid or has already been taken: The program will automatically prompt for another choice of position.
+    a. Position is invalid or has already been taken: The program will automatically prompt for another choice of position.<br />
     b. The program runs out of moves (9 moves in total possible): The program will exit and the two player will draw.
 ## Weakness and Enhancement
 
